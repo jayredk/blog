@@ -7,16 +7,15 @@ featured: true
 draft: false
 tags:
   - interview-questions
+  - network
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  以簡單直白的方式分享瀏覽器造訪一個網站到顯示出來的過程
 ---
 
+## 前言
 本文會簡單扼要的介紹在網址列輸入 URL 後到網頁顯示的整個流程
 
 涉及到的範疇僅限於 [OSI 模型（OSI Model）](https://www.cloudflare.com/zh-tw/learning/ddos/glossary/open-systems-interconnection-model-osi/)中的「應用層（Application Layer）」
-
-## Table of contents
 
 ## 為什麼有這篇文章？
 
@@ -33,6 +32,8 @@ description:
 以便在需要的時候能夠對網頁進行性能優化、除錯，
 
 而這一連串的過程，考驗了我們對於這些知識的了解程度。
+
+## Table of contents
 
 ## 流程總覽
 
